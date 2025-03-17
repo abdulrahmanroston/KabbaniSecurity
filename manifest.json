@@ -2,7 +2,7 @@
     "name": "دوام الأفراد",
     "short_name": "إدارة الأمن العام",
     "description": "ادارة دوام افراد امن قباني",
-    "start_url": "/index.html",
+    "start_url": "",
     "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#000000",
