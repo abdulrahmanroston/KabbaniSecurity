@@ -2,7 +2,7 @@ self.addEventListener('install', (event) => {
     event.waitUntil(
         caches.open('v1').then((cache) => {
             return cache.addAll([
-                '/index.html',
+                'https://abdulrahmanroston.github.io/KabbaniSecurity/index.html',
                 'Icon1.png'
             ]);
         })
